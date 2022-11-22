@@ -1,0 +1,25 @@
+.wrap{
+  width: 1200px;
+  margin: 0 auto;
+  padding: 70px 0;
+}
+.block{
+  display: block;
+}
+.hide{
+  display: none;
+}
+.h2{
+  margin-bottom: 50px;
+  font-size: 32px;
+  font-weight: 700;
+}
+.slim{
+  font-weight: 300;
+}
+.p{
+  line-height: 1.4;
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #555;
+}
